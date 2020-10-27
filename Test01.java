@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.nio.ByteBuffer;
 
-class Test01
+class BinaryGap
 {
 
 	public static void main(String[] args)
@@ -9,6 +9,7 @@ class Test01
 
 		int largestGap = 0;
 		int gapStart = Integer.MIN_VALUE;
+		//Other numbers to test out on
 		// int num = 9;
 		// int num = 362;
 		// int num = 33;
